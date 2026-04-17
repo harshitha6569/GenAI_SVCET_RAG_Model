@@ -1,1 +1,1 @@
-# Pragyan-AI---Groq-Lightning-Chat
+# GenAI_SVCET_RAG_Model
